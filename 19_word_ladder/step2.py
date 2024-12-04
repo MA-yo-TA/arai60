@@ -1,5 +1,5 @@
 from typing import List
-from collections import deque, defaultdict
+from collections import deque
 
 
 class Solution:
